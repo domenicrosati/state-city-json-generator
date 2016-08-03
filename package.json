@@ -1,0 +1,13 @@
+{
+  "name": "parse-state-city-csv-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "csv-streamer": "^0.1.2",
+    "jsonfile": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Shihuan Shao"
+}
